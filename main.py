@@ -2,7 +2,9 @@ from kivy.app import App
 from kivy.uix import button, boxlayout, screenmanager, label
 import screen1
 import screen2
+import timerScreen
 import screen3
+
 
 class Main(App):
     def __init__(self):
